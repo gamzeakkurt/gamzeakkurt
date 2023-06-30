@@ -17,8 +17,7 @@ I love sharing my knowledge with others, and I do that through the Kaggle platfo
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-
-- 😄 My Pronouns: She/Her   
+ 
 
 - 💬 Ask me about: Speech Emotion Recognition(SER), Natural Language Processing(NLP), Time Series Analysis, and Machine Learning Problems
 
