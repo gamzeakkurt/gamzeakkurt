@@ -1,18 +1,35 @@
-### Hi there 👋
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Gamze Akkurt</h3>
 
-<!--
-**gamzeakkurt/gamzeakkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Views -->
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ <!-- About section -->
+
+---
+✨As a passionate engineer, I am enthusiastic about pursuing a career in data science. With a strong background in programming languages and statistical analysis, I am dedicated to leveraging my academic foundation in data science to tackle complex business problems. 
+
+I love sharing my knowledge with others, and I do that through the Kaggle platform. Sometimes I participate in competitions, sometimes I analyze the existing dataset. When I'm not coding, you can find me baking in the kitchen and producing content on Instagram. 
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
+
+- 😄 My Pronouns: She/Her   
+
+- 💬 Ask me about: Speech Emotion Recognition(SER), Natural Language Processing(NLP), Time Series Analysis, and Machine Learning Problems
+
+- 📫 How to reach me: [Gamze Akkurt](https://www.linkedin.com/in/gamzeakkurt/)
+
+- ⚡ Fun fact: I enjoy capturing food photographs and creating aesthetic videos. I'm known as Homebakerybygn on Instagram. If you don't know what that is [check it out here](https://www.instagram.com/homebakerybygn/)
+
+<!-- About section: END -->
+
+
+
+ 
 
 
